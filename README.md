@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Human Activity Recognition and Fall Detection
 
 ## 1. Project Overview
@@ -62,3 +63,7 @@ The current posture classifier is experimental. It may misclassify postures when
 Future improvements include temporal fall detection, posture-transition analysis, dataset-based evaluation, and optional alerts.
 
 This prototype is not intended for medical or emergency safety use.
+=======
+# human-activity-recognition
+Human Activity Recognition using Machine Learning and Random Forest
+>>>>>>> 6ab190c8bb5e6793c7de0340f450f3889b73ddcb
